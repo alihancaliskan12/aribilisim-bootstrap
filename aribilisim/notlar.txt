@@ -1,0 +1,23 @@
+1- text-right -> kolon içindeki elementleri sağ tarafa konumlandırır. (not divler hariç)
+2- text-left -> kolon içindeki elementleri sol tarafa konumlandırır.(not divler hariç)
+3- text-center -> kolon içindeki elementleri orta kısımda tarafa konumlandırır. (not divler hariç)
+
+menüyü md2 ile böldükten sonra sağ tarafa yatırmak için ml-auto
+
+btn-outline-primary -> içi boş sadece çerçeve olacak
+
+class="img-fluid" -> taşan fotoğrafı alana sığdırmak için kullanılır. 
+
+
+class="card-img-top"> -> card içindeki fotoğrafın kenarına border radius atar 
+
+
+kolonu yükseliği küçük olana my atılır. diğerine göre ortalar.
+
+
+modal tanımlarken
+data-target="#staticBackdrop"
+id="staticBackdrop"
+aria-labelledby="staticBackdropLabel"
+id="staticBackdropLabel" 
+bunların isimleri her bir pop-up için özel yazılması gerekiyor 
